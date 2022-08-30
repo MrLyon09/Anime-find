@@ -25,7 +25,7 @@ export const AnimeList = ({ AnimeList, setAnimeInfo }) => {
               </div>
             );
           })
-        : "NO FOUND"}
+        : "SORRY!  ANIME NO FOUND"}
     </>
   );
 };
